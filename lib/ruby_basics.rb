@@ -11,7 +11,7 @@ def argue(value)
   value
 end
 
-def greeting
+def greeting(value1="Dog",value2="what up")
 
 end
 
